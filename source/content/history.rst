@@ -1,3 +1,5 @@
+.. -*- coding: utf-8 -*-
+
 .. _history:
 
 Brief History of the NECSTLab
@@ -14,7 +16,7 @@ PhD Degree
 ----------
 * Giovanni Beltrame: M.Sc., Ph.D.
 * Cristiana Bolchini: M.Sc. , Ph.D.
-* Fabio Cancarè: B.S. 2005, M.Sc. 2007, Ph.D. 2011
+* Fabio Cancaré: B.S. 2005, M.Sc. 2007, Ph.D. 2011
 * Fabrizio Ferrandi: M.Sc. , Ph.D.
 * Luca Fossati: B.S. 2004, M.Sc. 2006, Ph.D. 2010
 * Antonio Miele: M.Sc. 2006, Ph.D. 2010

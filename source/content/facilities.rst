@@ -109,7 +109,7 @@ Computing Resources
 Local Network
 ~~~~~~~~~~~~~
 
-Every device connected to the wired network is projected to the local, private network receives an address within the :kbd:`192.168.42.0/24` pool. Once connected, you can reach unauthenticated services and resources. However, most of the services and resources require authentication.
+Every device connected to the wired network is projected to the local, private network and is assigned an IP address within the :kbd:`192.168.42.0/24` pool. Once connected, you can reach unauthenticated services and resources. However, most of the services and resources require authentication.
 
   .. note::
 

@@ -141,7 +141,7 @@ Research assistants comprise post-doctorate researchers and temporary researcher
 Post-doctorate Researchers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Post-doctorate researchers hold a PhD degree, and are in the NECSTLab to continue working on their research. You can recognize them because they think they have they authority to whip every student in the lab with an ever-increasing amount of work.
+Post-doctorate researchers hold a PhD degree, and are in the NECSTLab to continue working on their research. You can recognize them because they think that they have the authority to whip every student in the lab with an ever-increasing amount of work.
 
 * `Marco Lattuada`_
 * `Federico Maggi`_
