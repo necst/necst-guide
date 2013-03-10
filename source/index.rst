@@ -10,7 +10,9 @@
 The Hitchhiker's Guide to the NECSTLab
 ======================================
 
-This guide is also :download:`available in PDF format <_static/files/necst-hitchhikers-guide.pdf>`.
+.. only:: html
+
+   This guide is also :download:`available in PDF format <_static/files/necst-hitchhikers-guide.pdf>`.
 
 .. toctree::
    :maxdepth: 4
@@ -22,3 +24,4 @@ This guide is also :download:`available in PDF format <_static/files/necst-hitch
    content/facilities
    content/activities
    content/history
+   content/documents
