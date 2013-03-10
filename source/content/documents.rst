@@ -30,7 +30,7 @@ NECSTLab Access Document
 ------------------------
 .. only:: html
 
-   * Download the PDF of the :download:`NECSTLab Access Download <../_static/files/access-form.pdf>`
+   * Download the PDF of the :download:`NECSTLab Access Document <../_static/files/access-form.pdf>`
 
 .. only:: latex
 
