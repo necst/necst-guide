@@ -51,7 +51,7 @@ What you can do
 What you Cannot do
 ------------------
 
-* Allow external folks to enter the `NECSTLab`_ without having previously informed the `NECSTLab`_ RADRL. (Please visit the managers page to find out the necessary information)
+* Allow external folks to enter the `NECSTLab`_ without having previously informed the :ref:`radrl`.
 
 * Use the `NECSTLab`_ network without the proper authorization
 

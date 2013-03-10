@@ -1,0 +1,101 @@
+\renewcommand{\Verbatim}[1][1]{%
+  % list starts new par, but we don't want it to be set apart vertically
+  \bgroup\parskip=0pt%
+  \smallskip%
+  % The list environement is needed to control perfectly the vertical
+  % space.
+  \list{}{%
+  \setlength\parskip{0pt}%
+  \setlength\itemsep{0ex}%
+  \setlength\topsep{0ex}%
+  \setlength\partopsep{0pt}%
+  \setlength\leftmargin{0pt}%
+  }%
+  \item\MakeFramed {\FrameRestore}%
+     \footnotesize%
+    \OriginalVerbatim[#1]%
+}
+\usepackage{wasysym}
+\usepackage{moresize}
+\usepackage{bera}
+\usepackage[T1]{fontenc}
+\usepackage{multicol}
+\usepackage[margin=1.8cm,paperwidth=6.69in,paperheight=9.61in]{geometry}
+\usepackage{rotating}
+\setlength{\headheight}{15pt}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage[Bjornstrup]{fncychap}
+
+\newcommand{\cover}{
+  \thispagestyle{empty}
+
+  \begin{flushright}
+    \huge\sffamily
+
+    \begin{sideways}
+      \begin{minipage}{15cm}
+        \begin{flushright}
+          THE HITCHHIKER'S GUIDE TO\\
+          THE NECSTLab
+        \end{flushright}
+      \end{minipage}
+    \end{sideways}
+  \end{flushright}
+  \vspace*{-1cm}
+  \begin{flushleft}
+    \includegraphics[width=.75\textwidth]{logo}
+  \end{flushleft}
+
+  \newpage
+
+  \thispagestyle{empty}
+
+  \vspace*{\fill}
+
+  \begin{footnotesize}
+
+    \parbox[h]{0.85\textwidth}{
+
+      \noindent
+      \textbf{The Hitchhiker's Guide to the NECSTLab}.\\
+      Copyright \copyright 2013 The NECSTLab.
+      All Rights Reserved.
+
+      \vspace{1em}
+
+      \noindent
+      The views and the opinions voluntarily or involuntarily expressed in this book are those of the NECSTLab and do not necessarily reflect the official policy or position of Politecnico di Milano.
+
+      \vspace{0.5cm}
+
+      \noindent
+      \url{http://guide.necst.it}
+
+      \vspace{1.3cm} }
+
+\end{footnotesize}
+\cleardoublepage
+
+}
+
+\@ifundefined{fancyhf}{}{
+  % Use \pagestyle{normal} as the primary pagestyle for text.
+  \fancypagestyle{normal}{
+    \fancyhf{}
+    \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
+    \fancyfoot[LO]{{\py@HeaderFamily\nouppercase{\rightmark}}}
+    \fancyfoot[RE]{{\py@HeaderFamily\nouppercase{\leftmark}}}
+    \fancyhead[LE,RO]{{\py@HeaderFamily \@title}}
+    \renewcommand{\headrulewidth}{0.4pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+  }
+  % Update the plain style so we get the page number & footer line,
+  % but not a chapter or section title.  This is to keep the first
+  % page of a chapter and the blank page between chapters `clean.'
+  \fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+  }
+}

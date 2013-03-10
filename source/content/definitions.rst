@@ -35,3 +35,10 @@
 .. _Riccardo Cattaneo: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1476&idlang=eng
 
 .. _NECSTLab: http://necst.it
+.. _necst ml: mailto:necst@elet.polimi.it
+.. _necst-strut ml: mailto:
+.. _necst-security-stud ml: mailto:necst-security-stud@elet.polimi.it
+.. _NECSTLab Facebook Group: https://www.facebook.com/groups/52052425507/
+.. _GARR Consortium: http://www.garr.it/b/eng
+.. _ASICT: http://www.asict.polimi.it/nc/en.html
+.. _Politecnico di Milano: http://polimi.it

@@ -10,22 +10,15 @@
 The Hitchhiker's Guide to the NECSTLab
 ======================================
 
-Contents:
+This guide is also :download:`available in PDF format <_static/files/necst-hitchhikers-guide.pdf>`.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :glob:
 
    content/preface
    content/rules
    content/roles
    content/facilities
-   content/access
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   content/activities
+   content/history

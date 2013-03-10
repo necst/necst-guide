@@ -37,6 +37,7 @@ help:
 	@echo "  changes    to make an overview of all changed/added/deprecated items"
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
+	@echo "  attachpdf  to attach the PDF of the guide"
 
 clean:
 	-rm -rf $(BUILDDIR)/*
@@ -45,6 +46,12 @@ html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+
+attachpdf:
+	@make latexpdf
+	@cp $(BUILDDIR)/latex/necst-hitchhikers-guide.pdf source/_static/files/
+	@echo
+	@echo "Build finished. The PDF file is in source/_static/files/."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
