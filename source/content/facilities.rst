@@ -131,9 +131,15 @@ In short, you need an account (see :ref:`access-facilities`).
 The setup instructions vary depending on the operating system:
 
 * Windows XP (guide is forthcoming)
-* Windows Vista/7 (guide is forthcoming)
+
+* Windows Vista/7
+
+   * `Screencast (in Italian) <http://www.youtube.com/watch?v=pMDFYrHqozc>`_
+
 * Windows 8 (guide is forthcoming)
+
 * Debian/Ubuntu Linux (guide is forthcoming)
+
 * Mac OS X (guide is forthcoming)
 
 Once connected, your device is automatically granted :ref:`internet`.
