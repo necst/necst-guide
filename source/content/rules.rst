@@ -5,7 +5,7 @@
 Basic Rules: Dos and Don'ts
 ===========================
 
-The `NECSTLab`_ can be a great place where to work, study, make friends while doing the previous things but more than all the others, it represents a great opportunity to live a terrific research experience.
+The `NECSTLab`_ can be a great place where to work, study, make friends while doing the previous things but more than everything, it represents a great opportunity to live a terrific research experience.
 
 This comes at a cost. You always have to:
 
@@ -38,13 +38,13 @@ What you can do
 
 * Study in the lab with other folks:
 
-    * all your colleagues have to be allowed to access the `NECSTLab`_,
+    * all your colleagues have to be allowed to access the `NECSTLab`_. Ask the :ref:`radrl` in case you need one of your colleagues to access the lab for a few hours.
 
-    * Access to the `NECSTLab`_ will not be granted just for studying reason. While working in the lab for your class projects, thesis works, you can also spent some times studying without having to move to other places.
+    * Access to the `NECSTLab`_ will not be granted just for studying reason. While working in the lab for your class projects, thesis works, you can also spend some times studying without having to move to other places.
 
 * Use the lab's facilities (see :ref:`facilities`) such as connectivity, computing horse power, software licenses, printers, etc.) to complete your work (the one you got the access to the `NECSTLab`_ for).
 
-* Remember always :ref:`golden`!
+* Always remember :ref:`golden`!
 
 .. _donts:
 
@@ -53,7 +53,7 @@ What you Cannot do
 
 * Allow external folks to enter the `NECSTLab`_ without having previously informed the :ref:`radrl`.
 
-* Use the `NECSTLab`_ network without the proper authorization
+* You should not have any problem in getting allowed to access the network, therefore read the :ref:`facilities` section. Therefore, you must not use the `NECSTLab`_ network without the proper authorization:
 
   * Whatever you'd be able to do to overcome this rule...you cannot do it! Being able does not allow you to do it!
 
@@ -61,29 +61,25 @@ What you Cannot do
 
   * You cannot assign to your PC a static IP
 
-* You should not have any problem in getting allowed to access the network, therefore read how to do it in the How to enable your laptop into the `NECSTLab`_ network section.
-
-* Unplug `NECSTLab`_ machines (PCs or boards) from the network (aka Do not use the ethernet cables that are already used by other machines!!!)
+* Unplug `NECSTLab`_ machines (PCs or boards) from the network (a.k.a., do not use the ethernet cables that are already used by other machines!)
 
 * Take home any facilities (e.g., books, docs, PCs, boards, see :ref:`facilities`).
 
-  * The boards involved in the Boards @ Home Program are an exception. For more information visit the facilities web page.
-
   * If you do really need something, please contact your tutor (see :ref:`tutors`)
 
-* Stay in the lab out of the authorized time (Mon - Fri, from 8am to 7pm).
+* Stay in the lab outside the authorized time (Monday to Friday, 8am to 7pm).
 
-  * If you do really need to work in the `NECSTLab`_ during non authorized period, please contact your tutor (see :ref:`tutors`) to find out a solution(for the list of `NECSTLab`_ Tutors, please visit this page)
+  * If you really need to work in the `NECSTLab`_ outside the authorized time, please contact your tutor (see :ref:`tutors`) to find a solution(for the list of `NECSTLab`_ Tutors, please visit this page)
 
-* Remember always :ref:`golden`
+* Always remember :ref:`golden`
 
 .. _expelled:
 
 What you can be Expelled for
 ----------------------------
 
-* Using the internet access for illegal actions, e.g. download copyrighted materials (movie, software, etc).
+* Using Internet access for illegal actions (e.g. download copyrighted materials such as movie, software).
 
-* Being part or help in stealing materials from the `NECSTLab`_
+* (Helping to) stealing or destroying materials from the `NECSTLab`_
 
-* Having improper behaviors while in the `NECSTLab`_
+* Behave inappropriately while in the `NECSTLab`_

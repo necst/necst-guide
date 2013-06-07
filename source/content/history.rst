@@ -5,7 +5,7 @@
 Brief History of the NECSTLab
 =============================
 
-TODO
+To be written (before the universe ends).
 
 Alumni
 ======

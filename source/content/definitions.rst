@@ -10,6 +10,7 @@
 .. _Paolo Cremonesi: http://home.dei.polimi.it/cremones/
 .. _Fabrizio Ferrandi: http://home.dei.polimi.it/ferrandi/
 .. _William Fornaciari: http://home.dei.polimi.it/fornacia/
+.. _Marco Gribaudo: http://www.deib.polimi.it/people/gribaudo/
 .. _Lorenzo Mezzalira: http://www.deib.polimi.it/personale/docentidettaglio.php?idlang=eng&id_docente=154
 .. _Gianluca Palermo: http://home.dei.polimi.it/gpalermo/
 .. _Gerardo Pelosi: http://home.dei.polimi.it/pelosi

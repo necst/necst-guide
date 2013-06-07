@@ -6,7 +6,7 @@
 People and Roles: Who's Who
 ===========================
 
-A typical academic laboratory is populated by a variety of people. Within the lab everyone has a role. Also, within Politecnico di Milano, everyone has a role. We hereby describe both the types of role.
+A typical academic laboratory is populated by a variety of people. Within the lab, everyone has a role. Also, within Politecnico di Milano, everyone has a role. We hereby describe both the types of role.
 
 * :ref:`lab-roles`
 * :ref:`academic-roles`
@@ -23,7 +23,9 @@ RADRL
 
 In every research area at DEIB, one of the professors is also assigned a special role called RADRL, short for `"Responsabile delle Attività Didattiche e di Ricerca nei Laboratori" <http://home.dei.polimi.it/tomasson/documenti/Elenco%20RADRL.pdf>`_.
 
-The NECSTLab RADRL is Prof. `Marco D. Santambrogio`_
+The NECSTLab RADRL is Prof. `Marco D. Santambrogio`_.
+
+Among the other things, the RADRL is responsible for the safety of the `NECSTLab`_: therefore, it is extremely important that you speak (or report) to the RADRL in case you have any doubt about the working environment.
 
 .. _pis:
 
@@ -64,6 +66,8 @@ PIs are responsible of one or more research projects. This type of role include 
 
 * `Maria Giovanna Sami`_
 
+* `Marco Gribaudo`_
+
 * `Marco D. Santambrogio`_
 
 * `Donatella Sciuto`_
@@ -84,13 +88,9 @@ Tutors
 
 Tutors participate to several organization activities within the NECSTLab and you can contact them for day-to-day issues *before* contacting the :ref:`radrl`.
 
-* `Francesco Bruschi`_
-
 * `Marco Lattuada`_
 
 * `Antonio Miele`_
-
-* `Gianluca Palermo`_
 
 * `Christian Pilato`_
 
@@ -119,7 +119,7 @@ Undergraduate students in the NECSTLab usually work on course projects or on the
 Master Students
 ~~~~~~~~~~~~~~~
 
-Master students in the NECSTLab work on their master thesis and at least one side project. Sometimes, master students collaborate with one or more undergrads within their thesis. You can recognize them because they believe they can rule the world. They usually spend 8 to 14 months in the lab.
+Master students in the NECSTLab work on their master thesis and usually one or more side projects. Sometimes, master students collaborate with one or more undergrads within their thesis. You can recognize them because they believe they can rule the world. They usually spend 8 to 14 months in the lab.
 
 PhD Students
 ~~~~~~~~~~~~
@@ -202,6 +202,8 @@ Associate professors work with the NECSTLab's assistant professors and they are 
 * `Fabrizio Ferrandi`_
 
 * `William Fornaciari`_
+
+* `Marco Gribaudo`_
 
 * `Lorenzo Mezzalira`_
 

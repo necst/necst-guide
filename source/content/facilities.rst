@@ -7,7 +7,7 @@ Facilities and Services: What's in the Lab
 
 The `NECSTLab`_ offers several facilities such as computing equipment, resources and services such as web hosting for small projects, management platforms, and code repositories.
 
-Access to the facilities that do require network connectivity is regulated by the :ref:`rules` and is granted once you obtain access to the lab (see :ref:`access`).
+Access to the facilities that require network connectivity is regulated by the :ref:`rules` and is granted once you obtain access to the lab (see :ref:`access`).
 
 .. _access-facilities:
 
@@ -99,7 +99,7 @@ Extras
 
 Need more resources or extra services?
 
-Ask your tutor (see :ref:`tutors`) or the :ref:`radrl` and be ready to provide thorough motivation for your request. For instance, *"can I use machine X disk space for my project?"* is usually not enough. Here, explaining *why* you need *that* machine disk space and *which* is your project is usually better, and sufficient.
+Ask your tutor (see :ref:`tutors`) or the :ref:`radrl` and be ready to provide thorough motivation for your request. For instance, *"can I use machine X disk space for my project?"* is usually not enough. Explaining *why* you need *that* machine disk space and *which* is your project would be better in this case.
 
 Computing Resources
 -------------------
@@ -109,7 +109,7 @@ Computing Resources
 Local Network
 ~~~~~~~~~~~~~
 
-Every device connected to the wired network is projected to the local, private network and is assigned an IP address within the :kbd:`192.168.42.0/24` pool. Once connected, you can reach unauthenticated services and resources. However, most of the services and resources require authentication.
+Each device connected to the wired network is assigned an IP address within the :kbd:`192.168.42.0/24` pool. Once connected, you can reach unauthenticated services and resources. However, most of the services and resources require authentication.
 
   .. note::
 
@@ -155,7 +155,7 @@ Wire-connected devices must follow this procedure:
 
 #. Follow this procedure: :ref:`access-facilities`.
 #. Plug your laptop to any of the available cables.
-#. Open your browser and connect to your favorite website via the HTTP (not HTTPS!) scheme. This will pop up an authentication modal dialog: enter your credentials and your MAC address will be allowed
+#. Open your browser and connect to your favorite website via the HTTP scheme. This will pop up an authentication modal dialog: enter your credentials and your MAC address will be allowed. Sometimes, browsing a site through HTTPS does not correctly trigger the authentication dialog.
 
 The network infrastructure of `Politecnico di Milano`_ is managed by `ASICT`_ and the bandwidth is provided the `GARR Consortium`_, the Italian Research & Education Network. Therefore, when using the Internet, in addition to the :ref:`rules`, every user should follow the `General Rules <http://www.wifi.polimi.it/en/regolamento/>`_.
 
@@ -248,7 +248,7 @@ Project Management Platform
 
 We rely on the `Redmine <http://www.redmine.org/>`_ to manage our projects. It provides:
 
-* wikies
+* wikis
 * source code repositories
 * bug tracking
 * gantt
