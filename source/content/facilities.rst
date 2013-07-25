@@ -222,6 +222,14 @@ There are two laser printers, one black-and-white printer and one color printer:
 
 Access to the printers is granted via Samba within the :kbd:`micro` workgroup. You will need to authenticate first.
 
+  .. note::
+
+     Under Linux, you can configure the printer through CUPS. On most distributions, a simple way to install it is by using the web interface: point a browser to the URL http://localhost:631, and add a new printer under the tab Administration. Choose "Windows printer via SAMBA" as the type of network printer. You will then be asked for the connection URI, which contains your NECST username and password: 
+     
+          :kbd:`smb://username:password@home.necst.elet.polimi.it/printer`
+
+     where :kbd:`printer` is either :kbd:`BlackAndWhite` or :kbd:`Color`. When asked to choose the model, provide the :kbd:`.ppd` file downloaded from the printer maker website.
+
   .. warning::
      In order not to waste paper and toner, prints are forced on both sides of each sheet. However, please limit the use of paper and toner (e.g., do not print your thesis).
 
