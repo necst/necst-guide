@@ -41,7 +41,7 @@ How to Access the Lab
 
         * 31 December
 
-5. Have the document signed by your PI
+5. Have the document signed by your PI and the :ref:`radrl`
 
 6. Deliver the form to the IT Section secretaries (First floor of DEIB's Building 20). Either:
 
