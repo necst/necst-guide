@@ -130,6 +130,8 @@ PhD students in the NECSTLab work on a 3 to 4-years research project and in plen
 * `Gianluca Durelli`_
 * `Alessandro Nacci`_
 * `Filippo Sironi`_
+* `Michele Carminati`_
+* `Mario Polino`_
 
 .. _ras:
 
@@ -155,6 +157,7 @@ Temporary Researchers
 Temporary researchers have been hired by a professor to work on one or more research project. You can recognize them because they work hard, and party harder. They could be involved in teaching activities.
 
 * `Alessandro Frossi`_
+* `Davide Quarta`_
 
 .. _faculty-members:
 

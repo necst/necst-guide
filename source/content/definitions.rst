@@ -34,6 +34,9 @@
 .. _Gianluca Durelli: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1547&idlang=eng
 .. _Filippo Sironi: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1228&idlang=eng
 .. _Riccardo Cattaneo: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1476&idlang=eng
+.. _Davide Quarta: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1875&idlang=eng
+.. _Mario Polino: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1873&idlang=eng
+.. _Michele Carminati: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1872&idlang=eng
 
 .. _NECSTLab: http://necst.it
 .. _necst ml: mailto:necst@elet.polimi.it

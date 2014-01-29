@@ -185,7 +185,7 @@ We have an internal DNS server, :kbd:`192.168.42.254`, which provides two functi
 Registring DNS Names
 ^^^^^^^^^^^^^^^^^^^^
 
-Should you need to register your :kbd:`<myname>.necst.elet.polimi.it`, just send an email to `Federico Maggi`_ at `fede@maggi.cc <mailto:fede@maggi.cc?subject=[NECSTLab]%2-DNS%20name%20request>`_
+Should you need to register your :kbd:`<myname>.necst.it`, just send an email to `Federico Maggi`_ at `fede@maggi.cc <mailto:fede@maggi.cc?subject=[NECSTLab]%2-DNS%20name%20request>`_
 
 Linux Shell
 ~~~~~~~~~~~
@@ -225,7 +225,7 @@ Access to the printers is granted via Samba within the :kbd:`micro` workgroup. Y
   .. note::
 
      Under Linux, you can configure the printer through CUPS. On most distributions, a simple way to install it is by using the web interface: point a browser to the URL http://localhost:631, and add a new printer under the tab Administration. Choose "Windows printer via SAMBA" as the type of network printer. You will then be asked for the connection URI, which contains your NECST username and password: 
-     
+
           :kbd:`smb://username:password@home.necst.elet.polimi.it/printer`
 
      where :kbd:`printer` is either :kbd:`BlackAndWhite` or :kbd:`Color`. When asked to choose the model, provide the :kbd:`.ppd` file downloaded from the printer maker website.
@@ -343,35 +343,7 @@ You can host your code in two places:
    or just export the :kbd:`GIT_SSL_NOVERIFY` variable to :kbd:`true` in your shell startup file (e.g., :kbd:`~/.bashrc`, :kbd:`~/.zshrc`).
 
 
-Web Application Containers and HTTP Reverse Proxy
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We can provide isolated containers to host your web applications written in Python, Ruby, PHP, Java, and so on. This is considered an non-ordinary service, although the lab is happy to provide it to you in case you need it for your thesis or your projects.
-
-In addition, if you want your web application to be reachable from the outside network, we can provide port-forwarding and HTTP reverse proxy services.
-
-Just follow this procedure if you want to know more: :ref:`extras`.
-
-Centralized Logging and Exception Storage
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Logging can be painful. It consumes space on your machine and, if not properly indexed, it takes ages to go through your logs to find the relevant details to debug your application. Also, logging is often not enough: what if an exception occurs? Do you have all the traceback information right in your logging messages? Unlikely.
-
-Fortunately, we have set up two services:
-
-* logstash, a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching).
-
-  * How to reach it: http://logs.necst.elet.polimi.it
-  * How to send logs to it: just configure your syslog to send logs to :kbd:`logs.necst.elet.polimi.it` via TCP port 55514
-
-* Sentry, a tool for managing exceptions and storing the tracebacks for debugging
-
-  * How to reach it: http://sentry.necst.elet.polimi.it
-  * `How to send events to it <http://sentry.readthedocs.org/en/latest/client/index.html>`_
-
-You need separate accounts for these tools. Ask `Federico Maggi`_ about this.
-
 The NECSTCloud
 --------------
 
-We are thrilled to announce that we are currently working on building a powerful private cloud for the `NECSTLab`_, powered by `KVM <http://www.linux-kvm.org/>`_ and `OpenNebula <http://opennebula.org/>`_.
+We are currently working on building a powerful private cloud for the `NECSTLab`_ with `OpenStack <http://openstack.org/>`_.
