@@ -44,4 +44,4 @@
 .. _ASICT: http://www.asict.polimi.it/nc/en.html
 .. _Politecnico di Milano: http://polimi.it
 .. _The System Administrator: mailto:sysadmin@necst.it
-.. _NECSTLab Google Groups: http://groups.necst.it
+.. _NECSTLab Google Groups: https://groups.google.com/a/necst.it/forum/#!forumsearch/
