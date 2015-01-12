@@ -41,19 +41,17 @@ How to Access the Lab
 
         * 31 December
 
-5. Have the document signed by your PI and the :ref:`radrl`
-
-6. Deliver the form to the IT Section secretaries (First floor of DEIB's Building 20). Either:
+5. Deliver the form to the IT Section secretaries (First floor of DEIB's Building 20). Either:
 
   * wait for the secretaries to notify you when the document is ready, or
 
   * ask the secretaries after 2-3 work days about the status of your document.
 
-7. Retrieve the signed document from the secretaries
+6. Retrieve the signed document from the secretaries
 
-8. Send a scanned copy of your Security Class Certificate and your signed document to :ref:`radrl`.
+7. Send a scanned copy of your Security Class Certificate and your signed document to :ref:`radrl`.
 
-9. Deliver (Mon-Fri, from 9am to 12pm) the signed document to Mrs. Dora Ivanof (Ground floor of DEIB's Building 20, phone number: 3630).
+8. Deliver (Mon-Fri, from 9am to 12pm) the signed document to Mrs. Dora Ivanof (Ground floor of DEIB's Building 20, phone number: 3630).
 
   * *Important:* bring your ID card of Politecnico di Milano with you
 
