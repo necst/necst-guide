@@ -51,7 +51,7 @@ How to Access the Lab
 
 7. Send a scanned copy of your Security Class Certificate and your signed document to :ref:`radrl`.
 
-8. Deliver (Mon-Fri, from 9am to 12pm) the signed document to Mrs. Dora Ivanof (Ground floor of DEIB's Building 20, phone number: 3630).
+8. Deliver (Mon-Fri, from 9am to 12pm) the signed document to Mrs. Fausto Berton (Ground floor of DEIB's Building 20, office T13, phone number: 3711).
 
   * *Important:* bring your ID card of Politecnico di Milano with you
 
