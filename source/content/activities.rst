@@ -48,9 +48,7 @@ Venue and Travel
 
 **When**
   Between the last week of July and the first week of August.
-
-**Cost**
-  20 to 40 Euros
+  
 
 More information is provided in advance through the mailing lists (see :ref:`ml`).
 
