@@ -54,7 +54,7 @@ There is a color laser printer:
 * Brother DCP-L8450CDW: `drivers and instructions <http://support.brother.com/g/b/downloadtop.aspx?c=eu_ot&lang=en&prod=dcpl8450cdw_eu>`_.
 
   .. warning::
-     In order not to waste paper and toner, please print on both sides of each sheet, and lease limit the use of paper and toner (e.g., do not print your thesis!).
+     In order not to waste paper and toner, please print on both sides of each sheet, and please limit the use of paper and toner (e.g., do not print your thesis!).
 
 Services
 --------
