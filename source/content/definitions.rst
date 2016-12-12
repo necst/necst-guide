@@ -39,6 +39,10 @@
 .. _Michele Carminati: http://www.deib.polimi.it/personale/motorericerca/dettaglio.php?id_persona=1872&idlang=eng
 
 .. _NECSTLab: http://necst.it
+.. _NECSTLab Students: https://groups.google.com/a/necst.it/forum/#!forum/students-ml
+.. _NECSTLab Security: https://groups.google.com/a/necst.it/forum/#!forum/security-ml
+.. _NECSTLab General: https://groups.google.com/a/necst.it/forum/#!forum/general-ml
+.. _NECSTLab Slack: https://necst.slack.com
 .. _NECSTLab Facebook Group: https://www.facebook.com/groups/52052425507/
 .. _GARR Consortium: http://www.garr.it/b/eng
 .. _ASICT: http://www.asict.polimi.it/nc/en.html

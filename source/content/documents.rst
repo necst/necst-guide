@@ -26,20 +26,6 @@ NECSTLab Safety Instructions
 
 .. _access-doc:
 
-NECSTLab Access Document
-------------------------
-.. only:: html
-
-   * Download the PDF of the :download:`NECSTLab Access Document <../_static/files/access-form.pdf>`
-
-.. only:: latex
-
-   .. raw:: latex
-
-      See next page.\clearpage
-      \includepdf[pages=1]{../html/_downloads/access-form.pdf}
-
-
 .. only:: latex
 
    .. raw:: latex
