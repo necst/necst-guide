@@ -23,11 +23,7 @@ How to Access the Lab
 
 2. Take the online course about `Security Class (Corso online Sicurezza) <http://sicurezza.metid.polimi.it/>`_, pass the online test, and print the Security Class Certificate.
 
-3. Download the :ref:`access-doc`
-
-4. Fill the required information in the :ref:`access-doc` with your respective PI
-
-  * How to compute the expiration date
+3. Agree with your respective PI about the expiration date
 
     * The PI will assign an expiration date to the access according to the kind of work that you have to do in the `NECSTLab`_. If not sure, leave this field empty, the :ref:`radrl` will complete it.
 
@@ -41,17 +37,11 @@ How to Access the Lab
 
         * 31 December
 
-5. Deliver the form to the IT Section secretaries (First floor of DEIB's Building 20). Either:
+4. Go in person from the IT Section secretaries (First floor of DEIB's Building 20).
 
-  * wait for the secretaries to notify you when the document is ready, or
+5. Wait for a notification that your documents are ready
 
-  * ask the secretaries after 2-3 work days about the status of your document.
-
-6. Retrieve the signed document from the secretaries
-
-7. Send a scanned copy of your Security Class Certificate and your signed document to :ref:`radrl`.
-
-8. Deliver (Mon-Fri, from 9am to 12pm) the signed document to Mrs. Fausto Berton (Ground floor of DEIB's Building 20, office T13, phone number: 3711).
+6. Go to the Department's Access and Safety office to have your badge activated (Mr. Fausto Berton, Mon-Fri, from 9am to 12pm, Ground floor of DEIB's Building 20, office T13, phone number: 3711).
 
   * *Important:* bring your ID card of Politecnico di Milano with you
 

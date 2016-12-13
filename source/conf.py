@@ -39,7 +39,7 @@ master_doc = 'index'
 # General information about the project.
 author = u'NECSTLab'
 project = u'The Hitchhiker\'s Guide to the NECSTLab'
-copyright = u'2013, NECSTLab'
+copyright = u'2013-2016, NECSTLab'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
