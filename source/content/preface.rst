@@ -29,7 +29,7 @@ How to Access the Lab
 
   * *Important:* bring your badge of Politecnico di Milano with you
 
-5. After a few days, and once the PI and the RADRL approve your access request, you will receive a notification e-mail that your documents are ready
+5. After a few days, and once the PI and the RADRL approve your access request, you will receive a notification e-mail
 
 6. Go to the Department's Access and Safety office to have your badge activated (Mr. Fausto Berton, Mon-Fri, from 9am to 12pm, Ground floor of DEIB's Building 20, office T13, phone number: 3711).
 
