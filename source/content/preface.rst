@@ -19,31 +19,21 @@ You should read this guide before starting a project at the `NECSTLab`_. Most li
 How to Access the Lab
 ---------------------
 
-1. Read and understand: the present book an the :ref:`safety-doc`
+1. Read and understand: the present book, and the :ref:`safety-doc`
 
-2. Take the online course about `Security Class (Corso online Sicurezza) <http://sicurezza.metid.polimi.it/>`_, pass the online test, and print the Security Class Certificate.
+2. Take the online `Basic Course on Safety (Corso Base sulla Sicurezza) <https://aunicalogin.polimi.it/aunicalogin/getservizio.xml?id_servizio=819>`_, pass the online test, and print the Security Class Certificate (all Politecnico students should have already passed this test).
 
-3. Agree with your respective PI about the expiration date
+3. Agree with your respective PI about the expiration date. The PI will assign an expiration date to the access according to the kind of work that you have to do in the `NECSTLab`_.
 
-    * The PI will assign an expiration date to the access according to the kind of work that you have to do in the `NECSTLab`_. If not sure, leave this field empty, the :ref:`radrl` will complete it.
+4. Go to the DEIB IT Section secretary (Mrs. Laura Caldirola, First Floor of DEIB's Building 20, phone number: 3623), and ask her to start the procedure
 
-    * We have 4 expiration dates that can be used:
+  * *Important:* bring your badge of Politecnico di Milano with you
 
-        * 30 April
-
-        * 31 July
-
-        * 31 October
-
-        * 31 December
-
-4. Go in person from the IT Section secretaries (First floor of DEIB's Building 20).
-
-5. Wait for a notification that your documents are ready
+5. After a few days, and once the PI and the RADRL approve your access request, you will receive a notification e-mail that your documents are ready
 
 6. Go to the Department's Access and Safety office to have your badge activated (Mr. Fausto Berton, Mon-Fri, from 9am to 12pm, Ground floor of DEIB's Building 20, office T13, phone number: 3711).
 
-  * *Important:* bring your ID card of Politecnico di Milano with you
+  * *Important:* bring your badge of Politecnico di Milano with you
 
   * *Important:* bring the Security Class Certificate with you
 
