@@ -41,7 +41,7 @@ Wireless Access
 Just connect to "polimi", "polimi-protected" (recommended) or "eduroam" following `these instructions <https://www.connectandgo.polimi.it/en/>`_.
 
 Registering DNS Names
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 
 Should you need to register your :kbd:`<myname>.necst.it`, just send an email to `The System Administrator  <mailto:sysadmin@necst.it?subject=[NECSTLab]%2-DNS%20name%20request>`_
 
