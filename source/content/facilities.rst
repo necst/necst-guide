@@ -14,7 +14,7 @@ Access to the facilities that require network connectivity is regulated by the :
 How to Obtain Access to the Computing Resources and Services
 ------------------------------------------------------------
 
-When working in the lab, you are still allowed to connect to the local network via wired medium (see :ref:`lan`) and reach unauthenticated services and resources. However, most of the services and resources require authentication.
+When working in the lab, you are allowed to connect to the local network via wired medium (see :ref:`lan`) and reach unauthenticated services and resources. For requests involving computing resources and IT services, please email `The System Administrator`_.
 
 Extras
 ~~~~~~
@@ -41,7 +41,7 @@ Wireless Access
 Just connect to "polimi", "polimi-protected" (recommended) or "eduroam" following `these instructions <https://www.connectandgo.polimi.it/en/>`_.
 
 Registering DNS Names
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 Should you need to register your :kbd:`<myname>.necst.it`, just send an email to `The System Administrator`_
 
@@ -68,11 +68,11 @@ There are several mailing lists. Depending on your work area, you should request
 
 * `NECSTLab Google Groups`_
 
-For example, all students working in the laboratory should request access to `NECSTLab Students`_. Students working with the computer security group should request access to `NECSTLab Security`_. Both mailing lists receive emails addressed to `NECSTLab General`_.
+For example, all students working in the laboratory should request access to `NECSTLab Students`_. Students working with the computer security group should request access to `NECSTLab Security`_. Both mailing lists receive emails addressed to `NECSTLab General`_ (don't request access to this list directly).
 
-We also have a team on `NECSTLab Slack`_, an IRC-style chat system, for day to day communication. If you need access, please e-mail `The System Administrator`_ to have an account created for you.
+We also have a team on `NECSTLab Slack`_, an IRC-style chat system, for day to day communication. If you need access, please e-mail `The System Administrator`_ to have an account created for you, keeping your tutor or responsible faculty member in CC.
 
-In addition to these mailing lists, join our `NECSTLab Facebook Group`_.
+In addition to these mailing lists, join our `NECSTLab Facebook Group`_!
 
 .. _pm:
 
@@ -81,12 +81,7 @@ Code Repositories: Git
 
 You can host your code in two places:
 
-* **private repos:** on https://bitbucket.org/necst - you don't need to be part of the necst team to create and use our repository. Just create a repository with your regular Bitbucket account, and transfer it to the user :kbd:`necst` from the settings of your repository. Ask `The System Administrator`_ for details.
+* **private (and public) repos:** on https://bitbucket.org/necst - you don't need to be part of the :kbd:`necst` team to create and use our repository. Just create a repository with your regular Bitbucket account, and transfer it to the user :kbd:`necst` from the settings of your repository. Ask `The System Administrator`_ for details.
 
 * **public repos:** we have a GitHub account, https://github.com/necst for which you need a personal GitHub account (free).
 
-
-The NECSTCloud
---------------
-
-We are running a beta version of a private cloud, to which you can request access by emailing `The System Administrator`_.

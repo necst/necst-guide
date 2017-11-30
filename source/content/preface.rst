@@ -19,23 +19,17 @@ You should read this guide before starting a project at the `NECSTLab`_. Most li
 How to Access the Lab
 ---------------------
 
-1. Read and understand: the present book, and the :ref:`safety-doc`
+1. Agree with your reference `NECSTLab` faculty member the fact that you can access the laboratory. You will be assigned an expiration date to the access according to the kind of work that you have to do in the `NECSTLab`_.
 
-2. Take the online `Basic Course on Safety (Corso Base sulla Sicurezza) <https://aunicalogin.polimi.it/aunicalogin/getservizio.xml?id_servizio=819>`_, pass the online test, and print the Security Class Certificate (all Politecnico students should have already passed this test).
+2. Send an email to the DEIB IT Section secretary (Mrs. Laura Caldirola, laura DOT caldirola AT polimi DOT it) to request access to the `NECSTLab`. Keep your PI in CC when sending this email.
 
-3. Agree with your respective PI about the expiration date. The PI will assign an expiration date to the access according to the kind of work that you have to do in the `NECSTLab`_.
-
-4. Go to the DEIB IT Section secretary (Mrs. Laura Caldirola, First Floor of DEIB's Building 20, phone number: 3623), and ask her to start the procedure
+3. Go to the DEIB Security and Access Control Office (Mr. Fausto Berton, fausto DOT berton AT polimi DOT it, Ground floor of DEIB's Building 20, office T30a, phone number: +39-02-2399 3711).
 
   * *Important:* bring your badge of Politecnico di Milano with you
 
-5. After a few days, and once the PI and the RADRL approve your access request, you will receive a notification e-mail
+4. After a few days, and once the RADRL approve your access request, your badge will be enabled to enter the `NECSTLab`
 
-6. Go to the Department's Access and Safety office to have your badge activated (Mr. Fausto Berton, Mon-Fri, from 9am to 12pm, Ground floor of DEIB's Building 20, office T13, phone number: 3711).
-
-  * *Important:* bring your badge of Politecnico di Milano with you
-
-  * *Important:* bring the Security Class Certificate with you
+  * *Important:* Please remember to always be courteous when interacting with all the University employees involved in the lab access procedure!
 
 How to use this Guide
 ---------------------
